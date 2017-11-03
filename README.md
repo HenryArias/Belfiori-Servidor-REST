@@ -1,6 +1,6 @@
 # Belfiori-Servidor-REST
 
-Este es el servidor REST desplegado en Microsoft Azure.
+Este es el servidor REST (Programado en JAVA) desplegado en Microsoft Azure.
 
 Este servidor provee los servicios de consulta de inventario y registro de ventas, además de otros servicios auxiliares.
 
